@@ -35,6 +35,7 @@ import audio from "./audio.svg";
 import compilar from "./compilar.png";
 import trip from "./trip.svg";
 import costartup from "./costartup.png";
+import awwards from "./awwards.png";
 
 export {
   css,
@@ -74,4 +75,5 @@ export {
   compilar,
   trip,
   costartup,
+  awwards,
 };

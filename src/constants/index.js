@@ -22,6 +22,7 @@ import {
   typescript,
   whatsapp,
   costartup,
+  awwards,
 } from "../assets/icons";
 import { appginie } from "../assets/images";
 
@@ -166,12 +167,12 @@ export const projects = [
     link: "https://mohittheprogrammer.github.io/Audio-Book/",
   },
   {
-    iconUrl: trip,
+    iconUrl: awwards,
     theme: "btn-back-orange",
-    name: "Trip – Delhi Travel App",
+    name: "Awwards",
     description:
-      "Designed and developed a travel application to explore Delhi’s tourist attractions with structured data handling, Firebase CRUD operations, and fully responsive layouts.",
-    link: "https://mohittheprogrammer.github.io/trip/",
+      "Designed and developed a Vite React website inspired by Zentry, implementing GSAP animations for smooth transitions, immersive interactions, and a modern, performance-optimized user experience.",
+    link: "https://mohittheprogrammer.github.io/awwards/",
   },
   {
     iconUrl: costartup,
